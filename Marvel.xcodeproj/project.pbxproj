@@ -13,6 +13,7 @@
 		7B575AEF2AC8A2B2001891C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B575AED2AC8A2B2001891C4 /* Main.storyboard */; };
 		7B575AF12AC8A2B5001891C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B575AF02AC8A2B5001891C4 /* Assets.xcassets */; };
 		7B575AF42AC8A2B5001891C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B575AF22AC8A2B5001891C4 /* LaunchScreen.storyboard */; };
+		7B575AFC2AC8A546001891C4 /* marvel.keys in Resources */ = {isa = PBXBuildFile; fileRef = 7B575AFB2AC8A546001891C4 /* marvel.keys */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7B575AF02AC8A2B5001891C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B575AF32AC8A2B5001891C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B575AF52AC8A2B5001891C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7B575AFB2AC8A546001891C4 /* marvel.keys */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = marvel.keys; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				7B575AE92AC8A2B2001891C4 /* SceneDelegate.swift */,
 				7B575AEB2AC8A2B2001891C4 /* ViewController.swift */,
 				7B575AED2AC8A2B2001891C4 /* Main.storyboard */,
+				7B575AFB2AC8A546001891C4 /* marvel.keys */,
 				7B575AF02AC8A2B5001891C4 /* Assets.xcassets */,
 				7B575AF22AC8A2B5001891C4 /* LaunchScreen.storyboard */,
 				7B575AF52AC8A2B5001891C4 /* Info.plist */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B575AFC2AC8A546001891C4 /* marvel.keys in Resources */,
 				7B575AF42AC8A2B5001891C4 /* LaunchScreen.storyboard in Resources */,
 				7B575AF12AC8A2B5001891C4 /* Assets.xcassets in Resources */,
 				7B575AEF2AC8A2B2001891C4 /* Main.storyboard in Resources */,
